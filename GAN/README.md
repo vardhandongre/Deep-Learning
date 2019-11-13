@@ -1,3 +1,3 @@
 # Generative Adversarial Network
 
-![](Folder/Progress_GAN.png)
+![](GAN/Folder/Progress_GAN.png)
