@@ -18,5 +18,9 @@ parameters, and then map the parameters to an image in the image space through t
 the network fθ. In contrast to image priors, the input to fθ is fixed for the entire training process. The
 network is trained to minimize loss with respect to an observed degraded image (target image).
 
+### Results:
+#### Super Resolution:
+![alt text]()
+
 #### The following is the link to detailed report of our work:
 [Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
