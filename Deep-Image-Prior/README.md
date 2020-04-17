@@ -19,7 +19,7 @@ the network fθ. In contrast to image priors, the input to fθ is fixed for the 
 network is trained to minimize loss with respect to an observed degraded image (target image).
 
 ### Results:
-<table><tr><td><img src="https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/final.png" style="width:70%"></td><td><img src='https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/image_Peppers512rgb_clean_noisy-min.png' width = 300></td></tr><tr><td>Super-Resolution</td><td><center>Denoising</center></td></table>
+<table><tr><td><img src="https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/final.png" height=500></td><td><img src='https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/image_Peppers512rgb_clean_noisy-min.png' width = 400></td></tr><tr><td>Super-Resolution</td><td><center>Denoising</center></td></table>
 
 #### The following is the link to detailed report of our work:
 [Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
