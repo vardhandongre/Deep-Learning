@@ -21,6 +21,7 @@ network is trained to minimize loss with respect to an observed degraded image (
 ### Results:
 #### Super Resolution:
 <img src="https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/final.png" height="400">
+<table><tr><td><img src="https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/final.png" style="width:100%"></td><td><img src='knight.gif' style="width:60%"></td></tr><tr><td>Hamiltonian cycle in Dodecahedron</td><td><center>Kinght's tour of Chessboard </center></td></table>
 
 #### The following is the link to detailed report of our work:
 [Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
