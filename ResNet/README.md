@@ -1,5 +1,5 @@
 # Training Progress
 
-# Computing Resource: Blue Waters supercomputer
+### Computing Resource: Blue Waters supercomputer
 
 
