@@ -7,6 +7,9 @@ In statistical classification, including machine learning, two main approaches a
    * Reinforcement learning applications where the model generates realistic experiences to learn from when acquiring data may      be costly.
    * Unsupervised/Semi-Supervised learning (acquiring unlabeled data is typically easier)
    * Capable of handling multi-modal models
+
+<font color='red'> Refer Reading folder for a quick understanding of important terms associated with GANs </font>
+
 ## Computing Resource
 ![alt text](https://github.com/vardhandongre/Deep-Learning/blob/master/GAN/Folder/BW.png)
 
