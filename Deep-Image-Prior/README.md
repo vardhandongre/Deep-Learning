@@ -1,7 +1,7 @@
 # Deep Image Prior 
 (Reimplementation)
 
-[Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
+[Project Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
 
 
 ## Abstract 
