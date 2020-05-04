@@ -1,8 +1,7 @@
 # Deep Image Prior 
 (Reimplementation)
 
-[Original Research](https://dmitryulyanov.github.io/deep_image_prior)
-
+[Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
 
 
 ## Abstract 
@@ -21,5 +20,5 @@ network is trained to minimize loss with respect to an observed degraded image (
 ### Results:
 <table><tr><td><img src="https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/final.png" height=500></td><td><img src='https://github.com/vardhandongre/Deep-Learning/blob/master/Deep-Image-Prior/images/image_Peppers512rgb_clean_noisy-min.png' width = 400></td></tr><tr><td><center>Super-Resolution</center></td><td><center>Denoising</center></td></table>
 
-#### The following is the link to detailed report of our work:
-[Report](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221djCrAgouX3FmuynFQ0FvgNnzMq79BVRs%22%5D,%22action%22:%22open%22,%22userId%22:%22109664371285326200548%22%7D) 
+
+[Original Research](https://dmitryulyanov.github.io/deep_image_prior)
