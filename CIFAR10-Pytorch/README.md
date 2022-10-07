@@ -1,1 +1,1 @@
-# Deep Convolution Network implemented with PyTorch for the CIFAR10 dataset
+# Deep Convolution Network implemented with PyTorch for the CIFAR100 dataset
